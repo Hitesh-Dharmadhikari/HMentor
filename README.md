@@ -5,4 +5,4 @@ HMentor provides the complete description of Problem Statement on Detail page al
 Students or User of the application can ask the Query about any problem statement. Application provides the virtual mentorship to the user by answering the user's query within 12 Hours.
 User or Student can track their query through the application using their gmail.
 For the upgradation, user or students can suggest the changes using Feedback and Suggestion page.
-You can see the Operational Screenshots on 
+You can see the Operational Screenshots on https://github.com/Hitesh-Dharmadhikari/HMentor/tree/master/assets
