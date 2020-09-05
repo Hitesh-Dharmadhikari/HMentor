@@ -162,7 +162,7 @@ class _AboutState extends State<About> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                     const  Text(
-                        "Author",
+                        "Subject Experts",
                         style: TextStyle(fontWeight: FontWeight.bold),
                       ),
                       Padding(
@@ -180,7 +180,7 @@ class _AboutState extends State<About> {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                               const  Text(
-                                    "Harshali Tayade",
+                                    "Harshali Tayade (IT Expert)",
                                     style: TextStyle(
                                         fontSize: 20,
                                         fontWeight: FontWeight.bold),
@@ -207,7 +207,7 @@ class _AboutState extends State<About> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                              const   Text(
-                                  "Hitesh Dharmadhikari",
+                                  "Hitesh Dharmadhikari (Application Expert)",
                                   style: TextStyle(
                                       fontSize: 20,
                                       fontWeight: FontWeight.bold),
@@ -236,7 +236,7 @@ class _AboutState extends State<About> {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                const   Text(
-                                    "Vinay Badgujar",
+                                    "Vinay Badgujar (Electronics Experts)",
                                     style: TextStyle(
                                         fontSize: 20,
                                         fontWeight: FontWeight.bold),
